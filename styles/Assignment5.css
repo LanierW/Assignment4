@@ -1,9 +1,31 @@
-section.section1 {background-color: #33ffb2; visibility: hidden; position: relative; top: 0; left: 0; width: 600px; overflow: scroll;}
+section.section1 {background-color: #33ffb2; visibility: hidden; position: absolute; top: 110px; left: 10px; width: 600px; overflow: scroll;}
 
 #section1picture {height: 200px; width: 300px; }
 
-section.section2 {background-color: #f6ff33; visibility: hidden; position: relative; bottom: 345px; left: auto; width: 600px; overflow: scroll;}
+section.section2 {background-color: #f6ff33; visibility: hidden; position: absolute; top: 110px; left: 10px; width: 600px; overflow: scroll;}
 
 #section2picture {height: 200px; width: 300px; }
 
-.footer {position: absolute; right: 0; bottom: 0; left: 0;}
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+#wrapper {
+	min-height:100%;
+	position:relative;
+}
+#content {
+	padding-bottom:100px; 
+}
+#footer {
+	background:#ffffff;
+	width:100%;
+	height:20px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	text-align: center;
+	font-style: italic;
+}
+
