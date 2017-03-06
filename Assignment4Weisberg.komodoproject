@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="fde61b11-9cd5-754f-a08c-c046e98ef0fe" kpf_version="5" name="Assignment4Weisberg.komodoproject">
+<livefolder id="cd48850f-f213-b645-8226-d4a29fa977b4" idref="fde61b11-9cd5-754f-a08c-c046e98ef0fe" name="js" url=".komodotools/js/">
+</livefolder>
+<livefolder id="da6516d4-5d19-fd48-9d60-2467c75a882e" idref="fde61b11-9cd5-754f-a08c-c046e98ef0fe" name="styles" url=".komodotools/styles/">
+</livefolder>
+<livefolder id="efb41de7-b133-ef4c-b547-74f3c59e86c3" idref="fde61b11-9cd5-754f-a08c-c046e98ef0fe" name="images" url=".komodotools/images/">
+</livefolder>
+<preference-set idref="fde61b11-9cd5-754f-a08c-c046e98ef0fe" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>

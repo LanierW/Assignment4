@@ -1,0 +1,7 @@
+section.section1 {background-color: #33ffb2; visibility: hidden; position: relative; top: 0; left: 0; width: 600px; overflow: scroll;}
+
+#section1picture {height: 200px; width: 300px; }
+
+section.section2 {background-color: #f6ff33; visibility: hidden; position: absolute; bottom: 230px; left: 10px; width: 600px; overflow: scroll;}
+
+#section2picture {height: 200px; width: 300px; }
