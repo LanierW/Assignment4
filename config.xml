@@ -6,7 +6,7 @@
 <name>Assignment 4 Weisberg</name>
 <description> Assignment 4</description>
 <author> Lanier Weisberg</author>
-<preference name="phonegap-version" value="cli-6.3.0" />
+<preference name="phonegap-version" value="cli-6.5.0" />
 <plugin name="cordova-plugin-whitelist" source="npm" />
 <access origin="*" />
 </widget>
